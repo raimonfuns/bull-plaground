@@ -1,0 +1,14 @@
+{
+  "name": "bull-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raimon <raimonfuns@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^3.5.2"
+  }
+}
